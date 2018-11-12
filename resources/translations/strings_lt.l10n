@@ -1,0 +1,13 @@
+#
+# Vertimų failas
+# Formatas – [stringas] = [vertimas]
+#
+Welcome = Sveiki
+Simple and Easy = Lengvai ir paprastai
+
+# Titulinis
+Front page = Pradžia
+# Demo page
+Page = Puslapis
+Demo = Puslapis
+Demo page = Parodomasis puslapis
